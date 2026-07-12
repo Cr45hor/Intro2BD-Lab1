@@ -1,5 +1,12 @@
-*.aux
-*.log
-*.out
-*.synctex.gz
-*.toc
+# *.aux
+# *.log
+# *.out
+# *.synctex.gz
+# *.toc
+# *.jar
+hadoop-test.jar
+words.txt
+hadoop-cluster/
+Lab 1 - HDFS.pdf
+assets/
+23127516.*
